@@ -12,5 +12,13 @@
   "bugs": {
     "url": "https://github.com/IrokzDal/Scraper/issues"
   },
-  "homepage": "https://github.com/IrokzDal/Scraper#readme"
+  "homepage": "https://github.com/IrokzDal/Scraper#readme",
+  "dependencies": {
+    "@bochilteam/scraper": "*",
+    "yt-search": "*",
+    "axios": "*",
+    "cheerio": "npm:cheerio@1.0.0-rc.12",
+    "human-readable": "*",
+    "translate-google-api": "*"
+  }
 }
